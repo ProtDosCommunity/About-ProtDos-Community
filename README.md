@@ -3,6 +3,7 @@
 ## ProtDos' Projects
 
 ## ProtDos' Team
+
 ### ProtDos
 <a href = "https://github.com/ProtDos"><img src = "https://avatars.githubusercontent.com/u/69071809?v=4" alt = "ProtDos' Profile" style = "width: 100px; height: 100px;"/><a/>
 </br></br>
@@ -34,6 +35,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JSman225&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
+Top member:
 1. ProtDos
 2. Alex-Toucan
 3. Savageboitim13

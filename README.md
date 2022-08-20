@@ -1,8 +1,8 @@
-# About-ProtDos
+# About ProtDos Community
 
 ## ProtDos' Projects
 
-## ProtDos' Team
+## ProtDos' Community Team
 
 ### ProtDos
 <a href = "https://github.com/ProtDos"><img src = "https://avatars.githubusercontent.com/u/69071809?v=4" alt = "ProtDos' Profile" style = "width: 100px; height: 100px;"/><a/>

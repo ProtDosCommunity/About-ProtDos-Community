@@ -14,12 +14,6 @@
 ![Statistics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alex-Toucan&theme=github_dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Toucan&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 </br>
-### Savageboitim13
-<a href = "https://github.com/Savageboitim13"><img src = "https://avatars.githubusercontent.com/u/102526504?v=4" alt = "Savageboitim13's Profile" style = "width: 100px; height: auto;"/><a/>
-</br></br>
-![Statistics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Savageboitim13&theme=github_dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Savageboitim13&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-</br>
 ### Null-glitch
 <a href = "https://github.com/Null-glitch"><img src = "https://avatars.githubusercontent.com/u/72862794?v=4" alt = "Null-glitch's Profile" style = "width: 100px; height: auto;"/><a/>
 </br></br>
